@@ -1,3 +1,7 @@
+h3 {
+  text-align: center;
+}
+
 /* Black Background on selected flex boxes */
 .square1 {
   background-color: black;
@@ -15,13 +19,16 @@
 /* Container of all 12 flex boxes */
 #container {
   display: flex;
-  width: 100px;
+  flex-flow: wrap;
+  width: 100vw;
   height: auto;
 }
 
-h3 {
-  text-align: center;
-}
+
+  
+
+
+
 
 
 
