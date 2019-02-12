@@ -6,7 +6,32 @@ h3 {
 .square1 {
   background-color: black;
   color: white;
+  text-align: center;
 }
+
+h3 {
+  text-align: center;
+  
+}
+
+h4 {
+  text-align: center;
+}
+
+ /* Image inside bio */
+ #bio img{
+  width: 25%;
+}
+
+.square img{
+  width: 15%;
+}
+
+#interest img{
+  width: 5%;
+}
+
+
 
 /* 12 flex boxes 3x4*/
 .square {
