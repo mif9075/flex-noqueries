@@ -1,2 +1,2 @@
-# flex-noqueries
-Flexbox without media queries
+# flexbox_resume
+Flexbox and Media Queries Resume Project

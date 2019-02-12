@@ -1,0 +1,30 @@
+/* Black Background on selected flex boxes */
+.square1 {
+  background-color: black;
+  color: white;
+}
+
+/* 12 flex boxes 3x4*/
+.square {
+  padding: 0px;
+  width: 320px;
+  height: 160px;
+  border: 1px solid;
+}
+
+/* Container of all 12 flex boxes */
+#container {
+  display: flex;
+  width: 100px;
+  height: auto;
+}
+
+h3 {
+  text-align: center;
+}
+
+
+
+
+
+
